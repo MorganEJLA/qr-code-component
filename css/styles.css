@@ -16,7 +16,7 @@ body{
     background-color: rgba(255, 255, 255, 1);
     box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
     margin:0 auto;
-    margin-top:85px;
+    margin-top:90px;
     border-radius:20px;
     align-items:center;
     justify-content: center;
@@ -39,7 +39,7 @@ body{
 
 }
 
-.info h2{
+.info h1{
     font-size:22px;
     line-height:27.72px;
     font-weight:700;
@@ -53,9 +53,10 @@ body{
 }
 
 
-.attribution{
-    margin-top:1rem;
-    display:flex;
+footer{
+   
+   
     flex-direction:column;
-    align-items:center;
+    text-align:center;
+    padding-top:1rem;
 }
